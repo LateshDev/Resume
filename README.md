@@ -20,3 +20,19 @@ https://lateshdev.github.io/Resume/
 - CSS3
 - Git & GitHub
 - GitHub Pages
+
+
+👨‍💻 Author
+
+Latesh Padaliya
+
+🎓 B.Tech Computer Science Engineering Student
+
+🌱 Aspiring Full Stack Developer
+
+GitHub: https://github.com/LateshDev
+
+LinkedIn: https://www.linkedin.com/in/latesh-padaliya
+
+⭐ Support
+If you like this project, consider giving it a ⭐ on GitHub.
